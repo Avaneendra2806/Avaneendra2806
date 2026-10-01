@@ -76,7 +76,7 @@ Entry-Level Data Analyst with a Master's in Data Science and hands-on experience
 - AI Powered Data Analytics: Frontlines Edutech
 - Power BI For Beginners: Simplilearn
 - Data Analytics Essentials: Cisco
-- Databases for Developers: Foundations — Oracle
+- Databases for Developers: Foundations: Oracle
 - Python For Data Science: IBM
 - Agile Scrum in Practice: Infosys Springboard
 
