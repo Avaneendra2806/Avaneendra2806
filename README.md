@@ -16,13 +16,13 @@ Entry-Level Data Analyst with a Master's in Data Science and hands-on experience
 - Pandas
 - NumPy
 - Data Cleaning
-- Data Transformation
+- Data Transformations
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Data Validation
 - Data Quality
 
-### 🗄️ Database & SQL
+### 🗄️ Database(MySQL)
 
 - Selecting
 - Filtering
@@ -49,6 +49,7 @@ Entry-Level Data Analyst with a Master's in Data Science and hands-on experience
 - Data Cleaning
 - Data Tranformations
 - Pivot Tables
+- Slicers
 - XLOOKUP
 - VLOOKUP
 - HLOOKUP
