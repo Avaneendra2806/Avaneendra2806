@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi👋, I'm Avaneendra Swayampakala
 
-<!--
-**Avaneendra2806/Avaneendra2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Entry-Level Data Analyst | Excel | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+Entry-Level Data Analyst with a Master's in Data Science and hands-on experience in collecting, validating, and analyzing large, complex data sets to generate actionable insights that support data-driven decision-making. Proficient in Excel, SQL, Python and Power BI to build dashboards, reports, and visualizations by translating business requirements into data-driven solutions. Experienced in conducting exploratory data analysis, validating data quality, and presenting findings to technical and non-technical stakeholders. Strong analytical, problem-solving, and communication skills, with the ability to collaborate effectively with cross-functional teams in fast-paced environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I Love to work with **Excel, SQL, Python, and Power BI** to build dashboards, reports, KPIs, and data visualizations that support data-driven decision-making.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🐍 Programming & Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Validation
+- Data Quality
+
+### 🗄️ Database & SQL
+
+- Selecting
+- Filtering
+- Sorting
+- Joins
+- Window Functions
+- Aggregations
+- CASE Statements
+- Subqueries
+
+### 📊 Business Intelligence & Visualization
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Development
+- KPI Reporting
+- Plotly
+- Looker
+
+### 📗 Microsoft Excel
+- Power Query
+- Data Cleaning
+- Data Tranformations
+- Pivot Tables
+- XLOOKUP
+- VLOOKUP
+- HLOOKUP
+- INDEX + MATCH
+- Charts
+- Dashboard Development
+  
+
+### ☁️ Cloud & Data Warehouse
+
+- Google Cloud Platform (GCP)
+- Google BigQuery
+
+### 🧰 Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Canva
+
+# 📜 Certifications
+
+- 🎓 Career Essentials in Generative AI — Microsoft & LinkedIn
+- 📊 AI Powered Data Analytics — Frontlines Edutech
+- 📈 Power BI For Beginners — Simplilearn
+- 📚 Data Analytics Essentials — Cisco
+- 🗄️ Databases for Developers: Foundations — Oracle
+- 🐍 Python For Data Science — IBM
+- 🔄 Agile Scrum in Practice — Infosys Springboard
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** avaneendra28062002@gmail.com
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/avaneendra-swayampakala/)
+
+🐙 **GitHub:** [Avaneendra2806](https://github.com/Avaneendra2806)
+
+🌐 **Portfolio:** [Visit my Portfolio](https://avaneendra-swayampakala.notion.site/Portfolio-afb209f32a0f835194c881595565c5d6)
+
+---
