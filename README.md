@@ -82,14 +82,3 @@ Looking For Entry Level Full time Data Analyst/Junior Data Analyst | Immediately
 
 ---
 
-# 📫 Connect With Me
-
-📧 **Email:** avaneendra28062002@gmail.com
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/avaneendra-swayampakala/)
-
-🐙 **GitHub:** [Avaneendra2806](https://github.com/Avaneendra2806)
-
-🌐 **Portfolio:** [Visit my Portfolio](https://avaneendra-swayampakala.notion.site/Portfolio-afb209f32a0f835194c881595565c5d6)
-
----
