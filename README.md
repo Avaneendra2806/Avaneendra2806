@@ -79,7 +79,7 @@ Entry-Level Data Analyst with a Master's in Data Science and hands-on experience
 - Data Analytics Essentials: Cisco
 - Databases for Developers: Foundations: Oracle
 - Python For Data Science: IBM
-- Agile Scrum in Practice: Infosys Springboard
+- BigQuery For Data Analysts : Google Skills
 
 ---
 
