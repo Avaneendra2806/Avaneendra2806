@@ -3,7 +3,7 @@
 ### 📊 Data Analyst | Excel | SQL | Python | Power BI | Turning Data into Business Insights | Looking for Full time Data Analyst/Associate Business Intelligence Analyst | Immediately Available
 
 ### 👨‍💻 About Me
-Entry-Level Data Analyst with a Master's in Data Science and hands-on experience in collecting, validating, and analyzing large, complex data sets to generate actionable insights that support data-driven decision-making. Proficient in Excel, SQL, Python and Power BI to build dashboards, reports, and visualizations by translating business requirements into data-driven solutions. Experienced in conducting exploratory data analysis, validating data quality, and presenting findings to technical and non-technical stakeholders. Strong analytical, problem-solving, and communication skills, with the ability to collaborate effectively with cross-functional teams in fast-paced environments.
+Entry-Level Data Analyst with a Master's degree in Data Science and hands-on internship and project experience in reporting, data validation, data quality, dashboard development and business analytics. Proficient in Advanced Excel, SQL, Python and Power BI, with the ability to transform data into accurate reports, KPIs, dashboards, and actionable business insights. Strong analytical thinking, problem-solving, decision-making, communication and collaboration skills to support data driven business decisions.
 
 
 ---
