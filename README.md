@@ -1,6 +1,6 @@
 # Hi👋, I'm Avaneendra Swayampakala
 
-### 📊 Data Analyst | Excel | SQL | Python | Power BI | Turning Data into Business Insights | Looking for Full time Data Analyst/Associate Business Intelligence Analyst | Immediately Available
+### 📊 Data Analyst| SQL | Power BI | Python | Excel | Turning Raw Data Into Business Insights & Decisions|Open to Enter level Data Analyst/BI Analyst or related roles
 
 ### 👨‍💻 About Me
 Entry-Level Data Analyst with a Master's degree in Data Science and hands-on internship and project experience in reporting, data validation, data quality, dashboard development and business analytics. Proficient in Advanced Excel, SQL, Python and Power BI, with the ability to transform data into accurate reports, KPIs, dashboards, and actionable business insights. Strong analytical thinking, problem-solving, decision-making, communication and collaboration skills to support data driven business decisions.
