@@ -62,6 +62,7 @@ Entry-Level Data Analyst with a Master's degree in Data Science and hands-on int
 
 - Google Cloud Platform (GCP)
 - Google BigQuery
+- Data Studio(Looker)
 
 ### 🧰 Tools
 
