@@ -32,6 +32,7 @@ Entry-Level Data Analyst with a Master's degree in Data Science and hands-on int
 - Aggregations
 - CASE Statements
 - Subqueries
+- CTE's
 
 ### 📊 Business Intelligence & Visualization
 
