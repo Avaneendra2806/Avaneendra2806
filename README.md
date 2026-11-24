@@ -43,7 +43,8 @@ Entry-Level Data Analyst with a Master's degree in Data Science and hands-on int
 - Dashboard Development
 - KPI Reporting
 - Plotly
-- Looker
+- Streamlit
+- Data Studio(Looker)
 
 ### 📗 Microsoft Excel
 - Power Query
